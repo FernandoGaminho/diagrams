@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="Page-1" id="PjmBxSnyQkSnfbC_tVtb">
-    <mxGraphModel dx="1665" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1074" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aTSqrQptcaVGD0hUVj6n-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aTSqrQptcaVGD0hUVj6n-1" target="aTSqrQptcaVGD0hUVj6n-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aTSqrQptcaVGD0hUVj6n-1" value="Ingreso Neto vs PM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aTSqrQptcaVGD0hUVj6n-1" value="&lt;b&gt;Ingreso Neto vs PM&lt;/b&gt;&lt;br&gt;$100,000&lt;br&gt;vs PM 10%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aTSqrQptcaVGD0hUVj6n-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aTSqrQptcaVGD0hUVj6n-2" target="aTSqrQptcaVGD0hUVj6n-4">
@@ -19,8 +19,8 @@
         <mxCell id="aTSqrQptcaVGD0hUVj6n-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTSqrQptcaVGD0hUVj6n-2" target="aTSqrQptcaVGD0hUVj6n-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aTSqrQptcaVGD0hUVj6n-2" value="Ordenes de compra vs PM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="395" width="120" height="60" as="geometry" />
+        <mxCell id="aTSqrQptcaVGD0hUVj6n-2" value="&lt;b&gt;Ordenes de compra vs PM&lt;/b&gt;&lt;br&gt;8,000&lt;br&gt;vs PM 5%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="395" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aTSqrQptcaVGD0hUVj6n-3" value="New buyers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
